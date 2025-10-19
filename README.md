@@ -48,7 +48,8 @@
 ● Uso de Keras y TensorFlow
 ● Aplicaciones en visión por computador y NLP
 
-Unidad 9: Capstone Project
+## Unidad 9: Capstone Project
 ● Definición de problema real
 ● Recolección y limpieza de datos
 ● Modelado y presentación final
+
