@@ -3,7 +3,8 @@
 ## 🚀El programa de Inteligencia Artificial cubre los siguientes temas:
 </br>
 
-<img align="left" height="105" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDExd3dsYTRyMmZidmpxNmVmc2FrZDhpNzdwcTllMGQ4aDZxeHN4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7zvsCFVQYPS4YC71za/giphy.gif"  />
+<img align="right" height="105" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDExd3dsYTRyMmZidmpxNmVmc2FrZDhpNzdwcTllMGQ4aDZxeHN4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7zvsCFVQYPS4YC71za/giphy.gif"  />
+
 ### ✒️Unidad 0: Ética y Responsabilidad en IA
 - Principios éticos en el desarrollo de IA
 - Riesgos y sesgos algorítmicos
@@ -54,5 +55,6 @@
 - Definición de problema real
 - Recolección y limpieza de datos
 - Modelado y presentación final
+
 
 
