@@ -1,4 +1,4 @@
-# 📌**Inteligencia Artificial - Samsung Innovation Campus**📌
+# 📌**Inteligencia Artificial-Samsung Innovation Campus**📌
 
 ## El programa de Inteligencia Artificial cubre los siguientes temas: 🚀
 </br>
@@ -55,6 +55,7 @@
 - Definición de problema real
 - Recolección y limpieza de datos
 - Modelado y presentación final
+
 
 
 
