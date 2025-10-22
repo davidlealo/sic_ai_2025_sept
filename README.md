@@ -25,12 +25,12 @@
 - Medidas de tendencia y dispersión
 - Aplicación estadística en IA 
 
-### ✒️Unidad 5: Aprendizaje supervisado
+### ✒️Unidad 5: [Aprendizaje supervisado](.3_machine_learning)
 - Regresión lineal y logística
 - Árboles de decisión, KNN, Naïve Bayes
 - Evaluación de modelos supervisados
 
-### ✒️Unidad 6: Aprendizaje no supervisado
+### ✒️Unidad 6: [Aprendizaje no supervisado](.3_machine_learning)
 - Clustering: K-means, DBSCAN
 - Reducción de dimensionalidad: PCA
 - Interpretación de resultados
@@ -49,6 +49,7 @@
 - Definición de problema real
 - Recolección y limpieza de datos
 - Modelado y presentación final
+
 
 
 
