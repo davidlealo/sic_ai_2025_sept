@@ -5,7 +5,7 @@
 
 <img align="right" height="155" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDExd3dsYTRyMmZidmpxNmVmc2FrZDhpNzdwcTllMGQ4aDZxeHN4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7zvsCFVQYPS4YC71za/giphy.gif"  />
 
-### ✒️Unidad 1: Introducción a la Inteligencia Artificial
+### ✒️Unidad 1: [Introducción a la Inteligencia Artificial](./1_introduccion/)
 - Historia y evolución de la IA
 - Ámbitos de aplicación actuales
 - Impacto de la IA en la sociedad y la industria
@@ -15,7 +15,7 @@
 - Operaciones algebraicas
 - Aplicaciones en redes neuronales 
 
-### ✒️Unidad 3: Preprocesamiento de datos
+### ✒️Unidad 3: [Preprocesamiento de datos](./2_preprocesamiento/)
 - Limpieza y transformación de datos
 - Uso de NumPy y Pandas
 - Normalización y codificación
@@ -25,30 +25,36 @@
 - Medidas de tendencia y dispersión
 - Aplicación estadística en IA 
 
-### ✒️Unidad 5: Aprendizaje supervisado
+### ✒️Unidad 5: [Aprendizaje supervisado](./3_machine_learning/)
 - Regresión lineal y logística
 - Árboles de decisión, KNN, Naïve Bayes
 - Evaluación de modelos supervisados
 
-### ✒️Unidad 6: Aprendizaje no supervisado
+### ✒️Unidad 6: [Aprendizaje no supervisado](./3_machine_learning/)
 - Clustering: K-means, DBSCAN
 - Reducción de dimensionalidad: PCA
 - Interpretación de resultados
 
-### ✒️Unidad 7: Procesamiento de lenguaje natural (NLP)
+### ✒️Unidad 7: [Procesamiento de lenguaje natural (NLP)](./4_pnl/)
 - Tokenización y vectorización de texto
 - Stemming y lematización
 - Modelos de clasificación de texto
 
-### ✒️Unidad 8: Redes neuronales y Deep Learning
+### ✒️Unidad 8: [Redes neuronales y Deep Learning](./5_deep_learning/)
 - Arquitectura de redes neuronales
 - Uso de Keras y TensorFlow
 - Aplicaciones en visión por computador y NLP
 
-### ✒️Unidad 9: Capstone Project
+### ✒️Unidad 9: [Capstone Project](./6_proyectos/)
 - Definición de problema real
 - Recolección y limpieza de datos
 - Modelado y presentación final
+
+
+
+
+
+
 
 
 
