@@ -15,7 +15,7 @@
 - Operaciones algebraicas
 - Aplicaciones en redes neuronales 
 
-### ✒️Unidad 3: Preprocesamiento de datos
+### ✒️Unidad 3: [Preprocesamiento de datos](./2_preprocesamiento)
 - Limpieza y transformación de datos
 - Uso de NumPy y Pandas
 - Normalización y codificación
@@ -49,6 +49,7 @@
 - Definición de problema real
 - Recolección y limpieza de datos
 - Modelado y presentación final
+
 
 
 
