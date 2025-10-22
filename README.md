@@ -5,7 +5,7 @@
 
 <img align="right" height="155" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDExd3dsYTRyMmZidmpxNmVmc2FrZDhpNzdwcTllMGQ4aDZxeHN4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7zvsCFVQYPS4YC71za/giphy.gif"  />
 
-### ✒️Unidad 1: Introducción a la Inteligencia Artificial
+### ✒️Unidad 1: [Introducción](./1_introduccion/) a la Inteligencia Artificial
 - Historia y evolución de la IA
 - Ámbitos de aplicación actuales
 - Impacto de la IA en la sociedad y la industria
@@ -49,6 +49,7 @@
 - Definición de problema real
 - Recolección y limpieza de datos
 - Modelado y presentación final
+
 
 
 
