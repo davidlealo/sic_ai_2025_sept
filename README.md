@@ -15,7 +15,7 @@
 - Operaciones algebraicas
 - Aplicaciones en redes neuronales 
 
-### ✒️Unidad 3: [Preprocesamiento de datos](./2_preprocesamiento)
+### ✒️Unidad 3: [Preprocesamiento de datos](./2_preprocesamiento/)
 - Limpieza y transformación de datos
 - Uso de NumPy y Pandas
 - Normalización y codificación
@@ -25,22 +25,22 @@
 - Medidas de tendencia y dispersión
 - Aplicación estadística en IA 
 
-### ✒️Unidad 5: [Aprendizaje supervisado](.3_machine_learning)
+### ✒️Unidad 5: [Aprendizaje supervisado](./3_machine_learning/)
 - Regresión lineal y logística
 - Árboles de decisión, KNN, Naïve Bayes
 - Evaluación de modelos supervisados
 
-### ✒️Unidad 6: [Aprendizaje no supervisado](.3_machine_learning)
+### ✒️Unidad 6: [Aprendizaje no supervisado](./3_machine_learning/)
 - Clustering: K-means, DBSCAN
 - Reducción de dimensionalidad: PCA
 - Interpretación de resultados
 
-### ✒️Unidad 7: Procesamiento de lenguaje natural (NLP)
+### ✒️Unidad 7: [Procesamiento de lenguaje natural (NLP)](./4_pnl/)
 - Tokenización y vectorización de texto
 - Stemming y lematización
 - Modelos de clasificación de texto
 
-### ✒️Unidad 8: Redes neuronales y Deep Learning
+### ✒️Unidad 8: [Redes neuronales y Deep Learning](./5_deep_learning/)
 - Arquitectura de redes neuronales
 - Uso de Keras y TensorFlow
 - Aplicaciones en visión por computador y NLP
@@ -49,6 +49,7 @@
 - Definición de problema real
 - Recolección y limpieza de datos
 - Modelado y presentación final
+
 
 
 
